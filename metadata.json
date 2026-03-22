@@ -1,0 +1,7 @@
+{
+  "name": "DesignGuard AI",
+  "description": "AI-powered copyright and trademark detection for Print-on-Demand sellers. Analyze text and images for legal risks before publishing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
